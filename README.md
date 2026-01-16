@@ -1,2 +1,2 @@
-# Proyectos Java
-Repositorio para mis ejercicios y proyectos de Java en el ciclo.
+# Java projects
+Repository for my Java exercises and projects in the semester.
